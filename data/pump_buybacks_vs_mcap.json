@@ -878,8 +878,15 @@
     {
       "date": "2025-11-19",
       "cum_buybacks_usd": 162740934.5495341,
-      "mcap_usd": 1887700550.0,
-      "pct_mcap_bought": 0.08621120259224066,
+      "mcap_usd": 1880154496.0,
+      "pct_mcap_bought": 0.08655721372672456,
+      "pct_circ_retired": null
+    },
+    {
+      "date": "2025-11-20",
+      "cum_buybacks_usd": 162740934.5495341,
+      "mcap_usd": 1875094249.0,
+      "pct_mcap_bought": 0.08679080245503655,
       "pct_circ_retired": null
     }
   ]
